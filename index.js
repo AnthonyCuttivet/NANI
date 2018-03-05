@@ -5,4 +5,4 @@ import {
 
 import App from './App';
 
-AppRegistry.registerComponent('NTM', () => App);
+AppRegistry.registerComponent('NANI', () => App);
